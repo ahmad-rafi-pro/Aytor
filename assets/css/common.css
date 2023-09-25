@@ -20,6 +20,19 @@ input:focus,textarea:focus,select:focus,
 
 /* =========== Variable Css Start =========== */
 :root{
-    
+    --primary-font:'Josefin Sans', sans-serif;
+    --body-font:'Roboto', sans-serif;
+    --primary-text-color:#11161E;
+    --primary-color-3d:#151A32;
+    --primary-color:#FF6F61;
+    --primary-color-dark:#FF5645;
+    --light-dark-color:#444444;
+    --light-color:#ffffff;
+    --dark-color:#000000;
+    --bg-color-1:#F1F1F1;
+    --bg-color-2:#F1F3F4;
+    --bg-color-3:#A6AAB7;
 }
-/* =========== Variable Css End =========== */
+/*{1} ===========  Css Start =========== {1}*/
+
+/*{1} ===========  Css End =========== {1}*/
